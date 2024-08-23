@@ -14,3 +14,4 @@ EXPOSE 8001
 
 CMD ["python", "app/main.py"]
 
+
